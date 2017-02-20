@@ -340,6 +340,10 @@ export const adConfig = {
 
   plista: {},
 
+  popin: {
+    renderStartImplemented: true,
+  },
+
   pubmatic: {
     prefetch: 'https://ads.pubmatic.com/AdServer/js/amp.js',
   },
